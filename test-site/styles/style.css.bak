@@ -1,0 +1,28 @@
+html {
+	background-color: #f288eb
+}
+p, li, h1 {
+	color: #0026ff;
+}
+.cat {
+	display: block;
+	width: 200px;
+	margin: 0 auto;
+}
+.title-gif{
+	width:90px;
+}
+body {
+    width: 600px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	background-color: #ffffff;
+	border: 5px solid black;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	text-shadow: 10px 10px 3px black;
+}
